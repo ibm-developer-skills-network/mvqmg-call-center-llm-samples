@@ -2,7 +2,7 @@ Agent: Good afternoon, thank you for reaching out to our support center. How can
 
 Customer: Hi, my internet has been really slow for the last few hours and it's quite frustrating.
 
-Agent: I'm here to assist you with that. Can I have your full name, please?
+Agent: Can I have your full name, please?
 
 Customer: Yeah, it's John Doe.
 
